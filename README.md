@@ -1,66 +1,86 @@
-![Banner](https://github.com/AhmedMuktadir14218/AhmedMuktadir14218/assets/100287308/a862f0f2-13ed-4c45-9d1d-184ad0cc7ff7)
+<div align="center">
+  
+  ![Banner](https://github.com/AhmedMuktadir14218/AhmedMuktadir14218/assets/100287308/a862f0f2-13ed-4c45-9d1d-184ad0cc7ff7)
 
-<h1 align="center">Hi there, I'm Ahmed Muktadir 👋</h1>
-<h3 align="center">Software Developer @ Tusuka Group | MERN & .NET Specialist</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muktadir-udoy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- TYPING ANIMATION HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ahmed+Muktadir;Software+Developer+%40+Tusuka+Group;MERN+Stack+%26+.NET+Specialist;Building+Enterprise+Solutions" alt="Typing SVG" />
   </a>
-  <a href="mailto:udoymuktadir8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
-<p align="center">
-  I am a results-driven developer currently building enterprise software at <b>Tusuka Group</b>. Previously, I worked as an AI Model Reviewer at <b>Outlier AI</b> and a Software Intern at <b>GoInnovior</b>. I specialize in building scalable applications using React, .NET 8, and Node.js.
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/muktadir-udoy">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:udoymuktadir8@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
----
+  <p>
+    I am a results-driven developer specializing in <b>React, Node.js, and .NET 8</b>. <br/>
+    Currently optimizing enterprise software at <b>Tusuka Group</b>. Previously at <b>Outlier AI</b>.
+  </p>
 
-### 🛠️ Technical Skills
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frontend Development**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & APIs**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**Databases**  
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**Tools & Workflow**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
-### 🔭 Featured Projects
-
-- **[WashTrack](https://github.com/AhmedMuktadir14218/WashTrack_Frontend)**: Industrial laundry operations system built with **.NET 8, SQL Server, and React**.
-- **[MessMeal](https://github.com/AhmedMuktadir14218/Manage-Mess-Apllication)**: Smart mess management system built with the **MERN Stack**.
-
----
-
-### 📊 GitHub Stats
+### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMuktadir14218&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMuktadir14218&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+
+  <!-- LANGUAGES & FRONTEND -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,cpp,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap,materialui" /><br/>
+  
+  <!-- BACKEND & DB -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgres" />
+  <!-- Custom Badge for SQL Server since skillicons doesn't have it -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white&height=40" height="40" />
+  <br/>
+
+  <!-- TOOLS -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white&height=40" height="40" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black&height=40" height="40" />
+
 </div>
+
+---
+
+### 🔭 Featured Enterprise Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[WashTrack](https://github.com/AhmedMuktadir14218/WashTrack_Frontend)** | `.NET 8` `SQL Server` `React` | End-to-end industrial laundry operations & logistics management system. |
+| **[MessMeal](https://github.com/AhmedMuktadir14218/Manage-Mess-Apllication)** | `MERN Stack` `Vite` `JWT` | Smart mess management system with automated financial reporting. |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedMuktadir14218&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMuktadir14218&theme=tokyonight&hide_border=true&layout=compact" width="400" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMuktadir14218&theme=tokyonight&hide_border=true" />
+</div>
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMuktadir14218&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
 
-### 🏆 Achievements
+<!-- ANIMATED SNAKE GAME (Optional - Consumes Contribution Graph) -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMuktadir14218&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedMuktadir14218&theme=tokyonight&utcOffset=6" />
 </div>
 
 <p align="center">
