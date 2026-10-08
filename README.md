@@ -4,7 +4,7 @@
 
   <!-- TYPING ANIMATION HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ahmed+Muktadir;Software+Developer+%40+Tusuka+Group;MERN+Stack+%26+.NET+Specialist;Building+Enterprise+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ahmed+Muktadir;Software+Engineer+%40+Tusuka+Group;MERN+Stack+%26+.NET+Specialist;Building+Enterprise+Solutions" alt="Typing SVG" />
   </a>
 
   <p>
@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    I am a results-driven developer specializing in <b>React, Node.js, and .NET 8</b>. <br/>
+    I am a results-driven software engineer specializing in <b>React, Node.js, and .NET 8</b>. <br/>
     Currently optimizing enterprise software at <b>Tusuka Group</b>. Previously at <b>Outlier AI</b>.
   </p>
 
