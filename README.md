@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Banner](https://github.com/AhmedMuktadir14218/AhmedMuktadir14218/assets/100287308/a862f0f2-13ed-4c45-9d1d-184ad0cc7ff7)
+  ![Banner](https://raw.githubusercontent.com/AhmedMuktadir14218/AhmedMuktadir14218/main/Gemini_Generated_Image_xq8v8kxq8v8kxq8v.jpg)
 
   <!-- TYPING ANIMATION HEADER -->
   <a href="https://git.io/typing-svg">
